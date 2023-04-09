@@ -1,0 +1,10 @@
+fastapi
+pydantic
+pandas
+tensorflow
+numpy
+uvicorn
+lightgbm
+gdown
+python-multipart
+Pillow
